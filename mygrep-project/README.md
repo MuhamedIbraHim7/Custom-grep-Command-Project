@@ -14,8 +14,8 @@ A simplified implementation of the Unix `grep` command built in Bash.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/mygrep.git
-   cd mygrep
+   git clone MuhamedIbraHim7/Custom-grep-Command-Project
+   cd mygrep-project
    ```
 
 2. Make the script executable:
