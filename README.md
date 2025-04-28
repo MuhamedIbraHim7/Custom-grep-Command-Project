@@ -109,5 +109,3 @@ The most challenging part of implementing this script was handling the combined 
 The other challenge was ensuring case-insensitive matching worked properly across different text variations while maintaining grep-like output formatting.
 
 ---
-
-Created as part of a DevOps engineering project.
